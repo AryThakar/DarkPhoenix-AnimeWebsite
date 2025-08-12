@@ -1,5 +1,11 @@
 # DarkPhoenix-AnimeWebsite(SEM-III)
 A website that inspired by Crunchyroll
+
+---
+
+# [🌐 View DarkPhoenix Live](https://arythakar.github.io/DarkPhoenix-AnimeWebsite/DarkPhoenix/)    (Click on this link!)
+
+---
 <img width="1890" height="896" alt="image" src="https://github.com/user-attachments/assets/cce66fe9-5df4-4dee-8ed0-68e3d49b6998" />
 
 # DarkPhoenix - Anime Fan Hub 🍿
