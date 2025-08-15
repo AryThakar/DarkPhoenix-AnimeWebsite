@@ -1,5 +1,5 @@
 # DarkPhoenix-AnimeWebsite(SEM-III)
-A website that inspired by Crunchyroll
+A website that inspired by Crunchyroll.This is my first basic site!
 
 ---
 
